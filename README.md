@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on getting better with HTML, JS, CS and python<br>I"m looking to start a few personal projects to broaden my skill set<br>I'm currently a student studding Digital Production Design and Development at Newcastle College<br>I'm currently doing a work experience placement at Zaltek Digital in Newcastle Upon Tyne<br>I quite like playing story games like Assassin's Creed or Days gone<br>I play multiplayer games like Rocket League and Tom Clancy's Rainbow Six Seige<br>
+I'm currently working on getting better with Python, HTML, CSS and JS. <br>I"m looking to start a few personal projects to broaden my skill set<br>I'm currently a student studding Digital Production Design and Development at Newcastle College<br>I'm currently doing a work experience placement at Zaltek Digital in Newcastle Upon Tyne<br>I quite like playing story games like Assassin's Creed or Days gone<br>I play multiplayer games like Rocket League and Tom Clancy's Rainbow Six Seige<br>
 
 
 ## 🌐 Socials:
